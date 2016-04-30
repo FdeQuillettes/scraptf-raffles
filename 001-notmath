@@ -1,0 +1,66 @@
+Url:
+https://scrap.tf/raffles/8Q6XV0
+
+Title:
+notmath
+
+Description:
+Since all my friends seem to make raffles, here's my shot at it...
+0 ≤ ψ ≤ ∞
+-∞ ≤ φ ≤ 0
+∃ φ : φ > ψ
+In foRmal mathematics the above is impossible of course. So obviously this can't be mathematics. However, there are a few practical cases where the above may hold true.
+The answer to the raffle is the most well-Known of these cases.
+Format: one word, all lowercase. 
+
+Entered:
+I'm impressed! 
+  
+password:
+temperature
+
+Entries:
+13 / 273
+
+Type:
+Multiple Winners
+
+Winning Chance:
+84.6154%
+
+Hints:
+Hint #1: Don’t overthink the math. If you don’t see the problem come back later. I have a few hints ready to post. Also, feel free to ask questions. I'm off to bed now, next hint in about 8 hours. 
+Hint #2: Look for a certain scale. Look for a certain quantity.
+Hint #2b (this wasn't in my planned list of hints): There are two ways to get to the solution. An easy way and an obscure one.
+Hint #3: 0 · φ < 0 · ψ, +∞ < -∞ and yes even +0 < -0
+Hint #4: If I had written -∞ ≤ φ ≤ -0 instead of -∞ ≤ φ ≤ 0 I could even state that ∀ φ : φ > ψ not just ∃ φ : φ > ψ
+Hint #5: Think quantum phenomena. Yes, this is the obscure thing!
+Hint #6: As of now, the solution to this problem is much easier to google than an hour ago.
+Hint #7: The stated is only applicable if the value is expressed in R or K. Yes, these are the R and K that are strangely capitalized in the raffle message, but you already saw that right?
+Hint #8: With 3 minutes to go... The quantity I'm looking for is in the international base system of units (SI).
+
+Explanation:
+There are two parts or ways of geting to the solution in this raffle. I believe everyone who found the solution used the less obscure way.
+I initally thought of this problem as doing only the obscure way but since the math is not formally defined this would be too hard.
+
+The easy way of getting to the solution was:
+- Noting the K (and R) in the message text
+- Noting that the maximum number of entries was 273
+- Deducing or googling that 273 K meant temperature (it's the freezing point of water on the Kelvin scale).
+- R was in there referring to Rankine, to let American users who might not be familiar with Kelvin know they are on the right track.
+- Hint #2 was supposed to be a big help in getting to this solution.
+- Hint #2b was obsiously here to let people know they didn't have to do any math and alert them of this solution.
+- And hint #7 and #8 were also here to help people with getting from 273, K and R to the actual answer.
+
+
+Now for the complicated solution:
+- 0 ≤ ψ ≤ ∞, -∞ ≤ φ ≤ 0 and ∃ φ : φ > ψ should lead to the conclusion that there is no value that will satisfy all three unless somehow a negative number was bigger than a positive number.
+- The text and hint #1 hopefully prevented most of you people to explore the realm of imaginary numbers. If I led you into that realm, I'm sorry.
+- The capitalized R and K and the number 273 should also point you to either googling, knowing or deducing that the case (I would have used another word but I feared this would have made it too easy) I meant was (negative) temperature, see https://en.wikipedia.org/wiki/Negative_temperature#Heat_and_molecular_energy_distribution.
+- Hint #3 and #4 were put in to make sure that the people who were on the right track with the math were pushed to conclude that negative should indeed be bigger than positive in the scale I was looking for.
+- Hint #5 and #6 were to make googling easier. Hint #6 actually meant that after hint #5 was posted, you could find the answer by googling "negative bigger than positive quantum" or similar queries.
+- Hint #7 was for the people who either didn't notice the capitalized R and K or had no idea what to do with them.
+
+And finally hint #8 was for those people wanting the answer really bad but not having any clue. They had 3 minutes to try all physical quantities in the table of https://en.wikipedia.org/wiki/SI_base_unit#The_seven_SI_base_units (that's why I specifically included I was looking for one word, so people wouldn't try "thermodynamic temperature")
+
+I hope I didn't cost anyone too much time, and I will use the comments and suggestions I got in my next raffle.
