@@ -56,7 +56,7 @@ The easy way of getting to the solution was:
 Now for the complicated solution:
 - 0 ≤ ψ ≤ ∞, -∞ ≤ φ ≤ 0 and ∃ φ : φ > ψ should lead to the conclusion that there is no value that will satisfy all three unless somehow a negative number was bigger than a positive number.
 - The text and hint #1 hopefully prevented most of you people to explore the realm of imaginary numbers. If I led you into that realm, I'm sorry.
-- The capitalized R and K and the number 273 should also point you to either googling, knowing or deducing that the case (I would have used another word but I feared this would have made it too easy) I meant was (negative) temperature, see https://en.wikipedia.org/wiki/Negative_temperature#Heat_and_molecular_energy_distribution.
+- The capitalized R and K and the number 273 should also point you to either googling, knowing or deducing that the case (I would have used another word but I feared this would have made it too easy) I meant was (negative) temperature, see https://en.wikipedia.org/wiki/Negative_temperature#Heat_and_molecular_energy_distribution. On that scale, a negative temperature is hotter than any positive one.
 - Hint #3 and #4 were put in to make sure that the people who were on the right track with the math were pushed to conclude that negative should indeed be bigger than positive in the scale I was looking for.
 - Hint #5 and #6 were to make googling easier. Hint #6 actually meant that after hint #5 was posted, you could find the answer by googling "negative bigger than positive quantum" or similar queries.
 - Hint #7 was for the people who either didn't notice the capitalized R and K or had no idea what to do with them.
